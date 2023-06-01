@@ -1,0 +1,385 @@
+Year ,State,Avg_Temp
+1/1/16,Alabama,43
+2/1/16,Alabama,49.8
+3/1/16,Alabama,59.7
+4/1/16,Alabama,63.6
+5/1/16,Alabama,70.2
+6/1/16,Alabama,79.2
+7/1/16,Alabama,82
+8/1/16,Alabama,81.6
+9/1/16,Alabama,78.6
+10/1/16,Alabama,68.5
+11/1/16,Alabama,57.8
+12/1/16,Alabama,50.1
+1/1/17,Alabama,52.4
+2/1/17,Alabama,55.6
+3/1/17,Alabama,58.4
+4/1/17,Alabama,67.2
+5/1/17,Alabama,69.9
+6/1/17,Alabama,75.8
+7/1/17,Alabama,80.6
+8/1/17,Alabama,78.8
+9/1/17,Alabama,73.4
+10/1/17,Alabama,65.8
+11/1/17,Alabama,55.6
+12/1/17,Alabama,46.9
+1/1/18,Alabama,40.4
+2/1/18,Alabama,58
+3/1/18,Alabama,55.4
+4/1/18,Alabama,59.5
+5/1/18,Alabama,74.4
+6/1/18,Alabama,79.3
+7/1/18,Alabama,80.7
+8/1/18,Alabama,79.5
+9/1/18,Alabama,79.4
+10/1/18,Alabama,67.4
+11/1/18,Alabama,50.4
+12/1/18,Alabama,49
+1/1/19,Alabama,46.5
+2/1/19,Alabama,56.1
+3/1/19,Alabama,55
+4/1/19,Alabama,63.5
+5/1/19,Alabama,74.2
+6/1/19,Alabama,78.1
+7/1/19,Alabama,80.6
+8/1/19,Alabama,80.6
+9/1/19,Alabama,80.2
+10/1/19,Alabama,67.8
+11/1/19,Alabama,50.6
+12/1/19,Alabama,51.3
+1/1/16,Florida,56.9
+2/1/16,Florida,59.4
+3/1/16,Florida,68.8
+4/1/16,Florida,71.2
+5/1/16,Florida,76.2
+6/1/16,Florida,81.9
+7/1/16,Florida,84
+8/1/16,Florida,83
+9/1/16,Florida,81.1
+10/1/16,Florida,74.6
+11/1/16,Florida,66.6
+12/1/16,Florida,65.9
+1/1/17,Florida,62.8
+2/1/17,Florida,65.5
+3/1/17,Florida,66.2
+4/1/17,Florida,72.3
+5/1/17,Florida,77.1
+6/1/17,Florida,80.2
+7/1/17,Florida,82.8
+8/1/17,Florida,82.8
+9/1/17,Florida,80.4
+10/1/17,Florida,74.9
+11/1/17,Florida,67.4
+12/1/17,Florida,61.7
+1/1/18,Florida,55
+2/1/18,Florida,69.2
+3/1/18,Florida,63
+4/1/18,Florida,70.2
+5/1/18,Florida,76.4
+6/1/18,Florida,81.5
+7/1/18,Florida,82.4
+8/1/18,Florida,82.2
+9/1/18,Florida,82.4
+10/1/18,Florida,76.5
+11/1/18,Florida,66.7
+12/1/18,Florida,61.8
+1/1/19,Florida,58.4
+2/1/19,Florida,67.4
+3/1/19,Florida,65.7
+4/1/19,Florida,71.2
+5/1/19,Florida,78.8
+6/1/19,Florida,82.3
+7/1/19,Florida,82.8
+8/1/19,Florida,92.9
+9/1/19,Florida,81.9
+10/1/19,Florida,77.9
+11/1/19,Florida,64.9
+12/1/19,Florida,63.9
+1/1/16,Georgia ,44.4
+2/1/16,Georgia ,50
+3/1/16,Georgia ,60.9
+4/1/16,Georgia ,63.9
+5/1/16,Georgia ,70.8
+6/1/16,Georgia ,79.7
+7/1/16,Georgia ,82.8
+8/1/16,Georgia ,81.6
+9/1/16,Georgia ,77.5
+10/1/16,Georgia ,67.8
+11/1/16,Georgia ,58
+12/1/16,Georgia ,52.1
+1/1/17,Georgia ,53.2
+2/1/17,Georgia ,56.5
+3/1/17,Georgia ,58
+4/1/17,Georgia ,67.5
+5/1/17,Georgia ,71.4
+6/1/17,Georgia ,76.6
+7/1/17,Georgia ,80.6
+8/1/17,Georgia ,79.4
+9/1/17,Georgia ,74
+10/1/17,Georgia ,67
+11/1/17,Georgia ,56.4
+12/1/17,Georgia ,49.3
+1/1/18,Georgia ,42.5
+2/1/18,Georgia ,59.2
+3/1/18,Georgia ,54.5
+4/1/18,Georgia ,60.6
+5/1/18,Georgia ,73.7
+6/1/18,Georgia ,79.3
+7/1/18,Georgia ,80.2
+8/1/18,Georgia ,79.4
+9/1/18,Georgia ,79.8
+10/1/18,Georgia ,68.4
+11/1/18,Georgia ,53.2
+12/1/18,Georgia ,50.2
+1/1/19,Georgia ,48.2
+2/1/19,Georgia ,56.1
+3/1/19,Georgia ,56.3
+4/1/19,Georgia ,64.6
+5/1/19,Georgia ,75.7
+6/1/19,Georgia ,78.1
+7/1/19,Georgia ,81
+8/1/19,Georgia ,80.7
+9/1/19,Georgia ,79.1
+10/1/19,Georgia ,69.7
+11/1/19,Georgia ,52.8
+12/1/19,Georgia ,52.3
+ ,Kentucky,31.6
+2/1/16,Kentucky,38.9
+3/1/16,Kentucky,51.8
+4/1/16,Kentucky,57.3
+5/1/16,Kentucky,62.9
+6/1/16,Kentucky,74.9
+7/1/16,Kentucky,77.9
+8/1/16,Kentucky,78
+9/1/16,Kentucky,72.2
+10/1/16,Kentucky,62.7
+11/1/16,Kentucky,49.9
+12/1/16,Kentucky,37
+1/1/17,Kentucky,40.9
+2/1/17,Kentucky,46.2
+3/1/17,Kentucky,47.9
+4/1/17,Kentucky,61.5
+5/1/17,Kentucky,65
+6/1/17,Kentucky,71.7
+7/1/17,Kentucky,76.9
+8/1/17,Kentucky,73.1
+9/1/17,Kentucky,68.3
+10/1/17,Kentucky,59.4
+11/1/17,Kentucky,47.1
+12/1/17,Kentucky,35.8
+1/1/18,Kentucky,30
+2/1/18,Kentucky,44.6
+3/1/18,Kentucky,44.1
+4/1/18,Kentucky,50.7
+5/1/18,Kentucky,71.8
+6/1/18,Kentucky,75.5
+7/1/18,Kentucky,76.6
+8/1/18,Kentucky,75.8
+9/1/18,Kentucky,73.1
+10/1/18,Kentucky,58.9
+11/1/18,Kentucky,41.9
+12/1/18,Kentucky,40.5
+1/1/19,Kentucky,35.1
+2/1/19,Kentucky,42.3
+3/1/19,Kentucky,43.1
+4/1/19,Kentucky,57.8
+5/1/19,Kentucky,68.4
+6/1/19,Kentucky,71.9
+7/1/19,Kentucky,77.4
+8/1/19,Kentucky,76.6
+9/1/19,Kentucky,74.8
+10/1/19,Kentucky,60
+11/1/19,Kentucky,41.2
+12/1/19,Kentucky,42.1
+1/1/16,Mississippi,43.7
+2/1/16,Mississippi,50.9
+3/1/16,Mississippi,60.2
+4/1/16,Mississippi,65.2
+5/1/16,Mississippi,70.5
+6/1/16,Mississippi,80.2
+7/1/16,Mississippi,82.4
+8/1/16,Mississippi,82
+9/1/16,Mississippi,79
+10/1/16,Mississippi,69.2
+11/1/16,Mississippi,58.2
+12/1/16,Mississippi,49.4
+1/1/17,Mississippi,52.9
+2/1/17,Mississippi,57.1
+3/1/17,Mississippi,60.1
+4/1/17,Mississippi,67.3
+5/1/17,Mississippi,70.1
+6/1/17,Mississippi,76.7
+7/1/17,Mississippi,81.2
+8/1/17,Mississippi,79.3
+9/1/17,Mississippi,74.5
+10/1/17,Mississippi,66.2
+11/1/17,Mississippi,56.8
+12/1/17,Mississippi,47.1
+1/1/18,Mississippi,40.1
+2/1/18,Mississippi,56.9
+3/1/18,Mississippi,57.1
+4/1/18,Mississippi,58.9
+5/1/18,Mississippi,75.8
+6/1/18,Mississippi,80.6
+7/1/18,Mississippi,81.6
+8/1/18,Mississippi,80.3
+9/1/18,Mississippi,78.9
+10/1/18,Mississippi,67.4
+11/1/18,Mississippi,50.5
+12/1/18,Mississippi,49
+1/1/19,Mississippi,46.3
+2/1/19,Mississippi,55
+3/1/19,Mississippi,54.7
+4/1/19,Mississippi,63.1
+5/1/19,Mississippi,74.3
+6/1/19,Mississippi,78.3
+7/1/19,Mississippi,80.8
+8/1/19,Mississippi,81.4
+9/1/19,Mississippi,81.2
+10/1/19,Mississippi,66.6
+11/1/19,Mississippi,50.3
+12/1/19,Mississippi,50.7
+1/1/16,North Carolina ,38.4
+2/1/16,North Carolina ,43.2
+3/1/16,North Carolina ,56.2
+4/1/16,North Carolina ,58.7
+5/1/16,North Carolina ,65.8
+6/1/16,North Carolina ,75.3
+7/1/16,North Carolina ,80.1
+8/1/16,North Carolina ,79.2
+9/1/16,North Carolina ,74.3
+10/1/16,North Carolina ,63.2
+11/1/16,North Carolina ,51.7
+12/1/16,North Carolina ,44
+1/1/17,North Carolina ,45.4
+2/1/17,North Carolina ,50.7
+3/1/17,North Carolina ,50
+4/1/17,North Carolina ,63.9
+5/1/17,North Carolina ,67.7
+6/1/17,North Carolina ,73.8
+7/1/17,North Carolina ,78.7
+8/1/17,North Carolina ,75.8
+9/1/17,North Carolina ,70.5
+10/1/17,North Carolina ,62.8
+11/1/17,North Carolina ,50.3
+12/1/17,North Carolina ,42.4
+1/1/18,North Carolina ,35.9
+2/1/18,North Carolina ,51.9
+3/1/18,North Carolina ,46.3
+4/1/18,North Carolina ,56.1
+5/1/18,North Carolina ,71.6
+6/1/18,North Carolina ,76.8
+7/1/18,North Carolina ,77.2
+8/1/18,North Carolina ,77.3
+9/1/18,North Carolina ,76.2
+10/1/18,North Carolina ,62.5
+11/1/18,North Carolina ,48.4
+12/1/18,North Carolina ,45
+1/1/19,North Carolina ,42
+2/1/19,North Carolina ,48.1
+3/1/19,North Carolina ,48.8
+4/1/19,North Carolina ,61.1
+5/1/19,North Carolina ,72.2
+6/1/19,North Carolina ,74.2
+7/1/19,North Carolina ,79
+8/1/19,North Carolina ,77
+9/1/19,North Carolina ,74.9
+10/1/19,North Carolina ,64.6
+11/1/19,North Carolina ,47.4
+12/1/19,North Carolina ,46.6
+1/1/16,South Carolina,43
+2/1/16,South Carolina,48
+3/1/16,South Carolina,60.6
+4/1/16,South Carolina,63.1
+5/1/16,South Carolina,70.1
+6/1/16,South Carolina,79.8
+7/1/16,South Carolina,83.7
+8/1/16,South Carolina,81.9
+9/1/16,South Carolina,77.1
+10/1/16,South Carolina,66.4
+11/1/16,South Carolina,55.6
+12/1/16,South Carolina,49
+1/1/17,South Carolina,51.4
+2/1/17,South Carolina,55.5
+3/1/17,South Carolina,55.5
+4/1/17,South Carolina,67
+5/1/17,South Carolina,71.5
+6/1/17,South Carolina,76.9
+7/1/17,South Carolina,81
+8/1/17,South Carolina,79.4
+9/1/17,South Carolina,74.3
+10/1/17,South Carolina,66.2
+11/1/17,South Carolina,54.3
+12/1/17,South Carolina,47.8
+1/1/18,South Carolina,40.6
+2/1/18,South Carolina,57.4
+3/1/18,South Carolina,52
+4/1/18,South Carolina,60
+5/1/18,South Carolina,73.8
+6/1/18,South Carolina,80.2
+7/1/18,South Carolina,80.2
+8/1/18,South Carolina,80
+9/1/18,South Carolina,79.4
+10/1/18,South Carolina,66.9
+11/1/18,South Carolina,51.9
+12/1/18,South Carolina,48.6
+1/1/19,South Carolina,46.7
+2/1/19,South Carolina,53
+3/1/19,South Carolina,54.1
+4/1/19,South Carolina,64
+5/1/19,South Carolina,75.4
+6/1/19,South Carolina,77.2
+7/1/19,South Carolina,81.4
+8/1/19,South Carolina,80.3
+9/1/19,South Carolina,78.3
+10/1/19,South Carolina,68.5
+11/1/19,South Carolina,51
+12/1/19,South Carolina,50.3
+1/1/16,Tennessee,34.8
+2/1/16,Tennessee,42.5
+3/1/16,Tennessee,53.9
+4/1/16,Tennessee,59.5
+5/1/16,Tennessee,65.3
+6/1/16,Tennessee,76.5
+7/1/16,Tennessee,79.8
+8/1/16,Tennessee,79
+9/1/16,Tennessee,74.1
+10/1/16,Tennessee,64.6
+11/1/16,Tennessee,52.7
+12/1/16,Tennessee,40.9
+1/1/17,Tennessee,44.9
+2/1/17,Tennessee,48.9
+3/1/17,Tennessee,51.1
+4/1/17,Tennessee,63.1
+5/1/17,Tennessee,66.6
+6/1/17,Tennessee,73
+7/1/17,Tennessee,78.1
+8/1/17,Tennessee,74.6
+9/1/17,Tennessee,69.1
+10/1/17,Tennessee,60.8
+11/1/17,Tennessee,49.9
+12/1/17,Tennessee,39.5
+1/1/18,Tennessee,32.9
+2/1/18,Tennessee,48.5
+3/1/18,Tennessee,48.2
+4/1/18,Tennessee,52.9
+5/1/18,Tennessee,72.3
+6/1/18,Tennessee,76.5
+7/1/18,Tennessee,78.1
+8/1/18,Tennessee,76.5
+9/1/18,Tennessee,74.9
+10/1/18,Tennessee,61
+11/1/18,Tennessee,44.4
+12/1/18,Tennessee,42.7
+1/1/19,Tennessee,39.4
+2/1/19,Tennessee,46.7
+3/1/19,Tennessee,46.9
+4/1/19,Tennessee,59.3
+5/1/19,Tennessee,70.1
+6/1/19,Tennessee,73.4
+7/1/19,Tennessee,77.8
+8/1/19,Tennessee,76.9
+9/1/19,Tennessee,76.4
+10/1/19,Tennessee,61.7
+11/1/19,Tennessee,44.2
+12/1/19,Tennessee,45.2
